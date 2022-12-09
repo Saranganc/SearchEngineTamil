@@ -8,10 +8,15 @@ Text corpus
 At Least 100 unique songs will be used to create the corpus. Each of the songs will be selected considering the presence of at least 1 metaphor. Attributes that are planned to be included (some more attributes will be added considering the path of the project):
 
 Name         	:	Name of the tamil song 
+
 Lyrics          	:	Tamil lyrics
+
 Lyricist        	:	LYricist of the song
+
 Album 	       	:	Movie name in which the song is featured. 
+
 Year  	       	:	Movie released year
+
 Metaphor    	:	Metaphors used in that song. At Least 1 metaphor for each
 
 In addition to this a few attributes will be added  for each metaphor. Currently I am planning to include source domain, target domain, interpretation and type of metaphor. And the necessary data for the corpus will be scraped from the internet. Currently I am planning to use several web pages from the internet to obtain the data and build the corpus. Preprocessing will be done in appropriate places.
