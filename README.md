@@ -19,7 +19,7 @@ Year  	       	:	Movie released year
 
 Metaphor    	:	Metaphors used in that song. At Least 1 metaphor for each
 
-In addition to this a few attributes will be added  for each metaphor. Currently I am planning to include source domain, target domain, interpretation and type of metaphor. And the necessary data for the corpus will be scraped from the internet. Currently I am planning to use several web pages from the internet to obtain the data and build the corpus. Preprocessing will be done in appropriate places.
+In addition to this a few attributes will be added  for each metaphor. Currently I am planning to include source domain, target domain, interpretation . And the necessary data for the corpus will be scraped from the internet. Currently I am planning to use several web pages from the internet to obtain the data and build the corpus. Preprocessing will be done in appropriate places.
 
 
 Scope and Usecase of the Search Engine
